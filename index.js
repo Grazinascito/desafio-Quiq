@@ -11,8 +11,8 @@ const result = data.establishments.map((item) => {
 
       const exist = establishment[categ.name];
 
-      console.log(establishment[prod.price])
       establishment[categ.name] = Object.assign(exist ? exist : {}, {
+
         [prod.name]: {
           price: prod.price/100,
         },
