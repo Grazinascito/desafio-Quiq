@@ -1,0 +1,103 @@
+[
+  {
+    "Restaurante": {
+      "Bebidas": {
+        "Guaraná": {
+          "price": "900"
+        },
+        "Água": {
+          "price": "500"
+        },
+        "Suco": {
+          "price": "600"
+        }
+      },
+      "Refeições": {
+        "Alaminuta": {
+          "price": "2800"
+        },
+        "Churrasco": {
+          "price": "3190"
+        }
+      }
+    }
+  },
+  {
+    "Comida Asiatica": {
+      "Chinesa": {
+        "Rolinho Primavera": {
+          "price": "1590"
+        }
+      },
+      "Oriental": {
+        "Rolinho Primavera": {
+          "price": "1590"
+        },
+        "Temaki": {
+          "price": "2090"
+        },
+        "Sushi": {
+          "price": "7000"
+        }
+      },
+      "Japonesa": {
+        "Temaki": {
+          "price": "2090"
+        },
+        "Sushi": {
+          "price": "7000"
+        }
+      },
+      "Refeições": {
+        "Sushi": {
+          "price": "7000"
+        }
+      },
+      "Bebidas": {
+        "Guaraná": {
+          "price": "900"
+        },
+        "Água": {
+          "price": "500"
+        }
+      }
+    }
+  },
+  {
+    "Fast Lanches": {
+      "Lanche": {
+        "Xis Frango": {
+          "price": "3000"
+        },
+        "Xis Carne": {
+          "price": "3100"
+        },
+        "Xis Coração": {
+          "price": "3650"
+        },
+        "Hamburguer": {
+          "price": "2850"
+        },
+        "Batata frita": {
+          "price": "1500"
+        }
+      },
+      "Bebidas": {
+        "Guaraná": {
+          "price": "900"
+        },
+        "Suco": {
+          "price": "600"
+        },
+        "Água": {
+          "price": "500"
+        }
+      },
+      "Fast food": {
+        "Hamburguer": {
+          "price": "2850"
+        }
+      }
+    }
+  }
+]
